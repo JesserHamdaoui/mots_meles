@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "termios_util.h": "c",
+    "screen_util.h": "c",
+    "game_util.h": "c"
+  }
+}
